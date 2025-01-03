@@ -1,0 +1,36 @@
+[
+    {
+        "title":"HTML",
+        "imageSrc":"skills/html.png"
+    },
+    {
+        "title":"css",
+        "imageSrc":"skills/cs.png"
+    },
+    {
+        "title":"javaScript",
+        "imageSrc":"skills/js.png"
+    },{
+        "title":"React",
+        "imageSrc":"skills/react.png"
+    },{
+        "title":"Node",
+        "imageSrc":"skills/node.png"
+    },{
+        "title":"Express",
+        "imageSrc":"skills/ep.png"
+    },
+    {
+        "title":"SQL",
+        "imageSrc":"skills/s.png"
+    },{
+        "title":"Firebase",
+        "imageSrc":"skills/fb.png"
+    },
+
+    {
+        "title":"GitHUb",
+        "imageSrc":"skills/hh.png"
+    }
+    
+]

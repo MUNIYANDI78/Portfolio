@@ -1,0 +1,6 @@
+{
+  "client": {
+    "source": "ecommerce-website",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}
