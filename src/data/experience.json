@@ -1,12 +1,42 @@
 [{
     "id":1,
+    "role":"Full-Stack Web Developement course with Front-end & Back-end ",
+    "organization":"code purple Academy",
+    "startDate":"01-Mar-2024",
+    "endDate":"23-Dec-2024",
+    "location":"Sivakasi",
+    "experiences":[
+        "worked with Real time projects and many task completed"
+    ],
+    "imageSrc":"experience/code.png"
+},
+{
+    "id":2,
     "role":"Internship Training On   Full-Stack Web Development with python ",
-    "organization":"Phonix Softech",
-    "startDate":"01-08-2024",
-    "endDate":"13-08-2024",
+    "organization":"Phoenix Softech",
+    "startDate":"01-Aug-2024",
+    "endDate":"13-Aug-2024",
     "location":"Madurai",
     "experiences":[
         "worked with Real time projects"
     ],
-    "imageSrc":""
-}]
+    "imageSrc":"experience/phoneix.png"
+},
+{
+    "id":3,
+    "role":" Internship training on Full-Stack Web Designing ",
+    "organization":"GK softeck",
+    "startDate":"02-Sep-2024",
+    "endDate":"21-Sep-2024",
+    "location":"Sivakasi",
+    "experiences":[
+        "worked with Real time projects"
+    ],
+    "imageSrc":"experience/gk.png"
+}
+
+
+
+
+
+]

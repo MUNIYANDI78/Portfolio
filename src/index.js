@@ -36,6 +36,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import Navbar from './components/Navbar';
 import Home from "./components/Home";
+import Experience from './components/Experience';
 import Skill from "./components/Skill";
 import Contact from "./components/Contact";
 import Projects from "./components/Projects";
@@ -53,6 +54,7 @@ const App = () => {
       <Navbar />
       <div className='container'></div>
       <Home />
+      <Experience/>
       <Skill />
       <Projects />
       <Contact />
