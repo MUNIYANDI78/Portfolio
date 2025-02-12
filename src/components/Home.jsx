@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react'
-import pdf from './pdf/MY RESUME.pdf';
+import pdf from './pdf/My resume new.pdf';
 
 import hero from '../components/p1.jpg';
 import Typed from "typed.js"
@@ -26,7 +26,7 @@ const Home = () => {
     <div className='left' data-aos="fade-up-right" data-aos-duration="1000">
         <h1 ref={typedRef}> </h1>
     
-    <a href={pdf}download="MY RESUME" className='btn btn-outline-warning my-3'>Download Resume</a>
+    <a href={pdf}download="My resume new.pdf" className='btn btn-outline-warning my-3'>Download Resume</a>
 
 
     </div>
