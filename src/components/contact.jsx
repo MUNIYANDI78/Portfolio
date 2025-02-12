@@ -5,7 +5,7 @@ import { CiLinkedin } from "react-icons/ci";
 import { FaXTwitter } from "react-icons/fa6";
 import { FaGithub } from "react-icons/fa";
 import { IoIosMail } from "react-icons/io";
-const contact = () => {
+const Contact = () => {
   return (
     <>
     <div className="container contact my-3 " id="contact">
@@ -41,4 +41,4 @@ const contact = () => {
   )
 }
 
-export default contact
+export default Contact
