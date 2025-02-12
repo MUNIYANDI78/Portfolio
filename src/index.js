@@ -38,7 +38,7 @@ import Navbar from './components/Navbar';
 import Home from "./components/Home";
 import Experience from './components/Experience';
 import Skill from "./components/Skill";
-import Contact from "./components/contact";
+import Contact from "./components/Contact";
 import Projects from "./components/Projects";
 import reportWebVitals from './reportWebVitals';
 import Aos from "aos";

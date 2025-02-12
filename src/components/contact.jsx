@@ -1,5 +1,5 @@
 import React from 'react'
-import React from 'react'
+
 import { FaInstagramSquare } from "react-icons/fa";
 import { CiFacebook } from "react-icons/ci";
 import { CiLinkedin } from "react-icons/ci";
